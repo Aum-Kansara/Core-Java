@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class Fibonaki{
     public static void main(String[] args) {
         Scanner obj=new Scanner(System.in);
         int num1=obj.nextInt();
