@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Counter{
     public static void main(String[] args) {
         Scanner obj=new Scanner(System.in);
+        System.out.println("Enter the Number :");
         long num1=obj.nextInt();
         int counter=0;
         while(num1>0){
