@@ -11,5 +11,6 @@ public class Fibonaki{
             a=c;
         }
         System.out.println(b);
+        obj.close();
     }
 }
